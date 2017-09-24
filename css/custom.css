@@ -1,0 +1,48 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+header{padding:20px 0;}
+/* menu*/
+.navbar{margin:10px 0;}
+.navbar-default{background: transparent; border: none;}
+.navbar-nav > li > a{font-weight: bold;}
+.navbar-brand{font-family: 'Indie Flower', cursive;}
+
+/*end of menu*/
+/*featured*/
+.featured{
+	color: white;
+	background: #0A9DD8;
+	padding:40px 0;
+	margin-bottom: 40px;
+}
+.featured h1{font-size: 60px; margin-top:0;}
+.featured p{font-size: 20px;}
+/*end of featured*/
+/*services*/
+.title{ margin-bottom: 40px; }
+.title h2{margin:0;}
+.services{}
+.services .glyphicon{ font-size: 50px; }
+/*end of services*/
+/*call us*/
+.phone{font-size: 30px;}
+/*end of call us*/
+/*footer*/
+footer{background-color: #555555; color: white; padding:20px 0; margin-top: 40px;}
+/*end of footer*/
+
+.copyright{background:#666; color: #fff; padding: 10px 0;}
+
+/*.container-image img {
+    max-width: 600px;
+}*/
+
+.container-image div{
+	display: none;
+}
+img.gambar {
+  width: 530px;
+  height: 321px;
+}
